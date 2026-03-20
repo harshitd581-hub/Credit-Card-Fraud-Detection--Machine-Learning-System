@@ -12,6 +12,8 @@ Machine Learning model train karna
 Model ki performance evaluate karna
 Fraud detection accuracy improve karna
 
+## data link kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud  either you can download or direct import as i do .
+
 ## Dataset Description
 Is project me ek real-world dataset use kiya gaya hai jisme:
 Total transactions: ~284,000+
